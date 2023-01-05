@@ -45,8 +45,14 @@ It will give you the list of metadata you can search for like:
 3. All the values that ends with "/" in the list takes multiple arguments you will have to run the first argument then select the 2nd argument from the output list and give them both together in this format argument1/argument2 
 
 	Example: iam/ will output 
+
+```
+	Type Here
+	iam
+
 	Info
 	Security-credentials 
+```
 
 	so you will have to search iam/info to get the result in next script run.
 
