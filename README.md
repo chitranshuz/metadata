@@ -40,13 +40,13 @@ It will give you the list of metadata you can search for like:
 
 2. Give input for example ami-id. As this does not have any 2nd argument you will get the ami-id value as output. 
 
-3. All the values that ends with “/” in the list takes multiple arguments you will have to run the first argument then select the 2nd argument from the output list and give them both together in this format argument1/argument2 
+3. All the values that ends with ï¿½/ï¿½ in the list takes multiple arguments you will have to run the first argument then select the 2nd argument from the output list and give them both together in this format argument1/argument2 
 
-Example: iam/ will output 
-Info
-Security-credentials 
+	Example: iam/ will output 
+	Info
+	Security-credentials 
 
-so you will have to search iam/info to get the result in next script run.
+	so you will have to search iam/info to get the result in next script run.
 
 For this purpose script runs in a loop which can be exited by ctrl + c command. 
 
