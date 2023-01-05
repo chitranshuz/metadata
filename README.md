@@ -9,6 +9,7 @@ How to use:
 It will give you the list of metadata you can search for like: 
 1. 1st output will look like this you need to type the metadata value under Type Here from the list.
 
+```
 	Type what meta-data you are looking for from the list....
 
 	ami-id
@@ -37,6 +38,7 @@ It will give you the list of metadata you can search for like:
 	system
 
 	Type Here
+```
 
 2. Give input for example ami-id. As this does not have any 2nd argument you will get the ami-id value as output. 
 
